@@ -4,4 +4,4 @@ pusa
 ctrl + C
 :q!
 enter
-new earth
+hahaha
