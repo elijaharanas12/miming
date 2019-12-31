@@ -6,3 +6,5 @@ ctrl + C
 enter
 new earth
 hahaha
+
+bago to
