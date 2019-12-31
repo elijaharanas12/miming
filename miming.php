@@ -8,3 +8,5 @@ new earth
 hahaha
 
 ito bago ko
+bago nanaman
+ok new ulit
